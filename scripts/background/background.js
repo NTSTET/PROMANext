@@ -12,7 +12,6 @@ const settingsKey = "settings";
 const bookmarksKey = "bookmarks";
 const sitesToBeBlockedKey = "sitesToBeBlocked";//for localStorage
 const extensionId = "ghcgjjbeackokeeegjipodpgnmkfkpmk";
-const optionPageUrl = chrome.runtime.getURL("/blocked/blocked.html");
 //1: do nothing
 //2: block
 //3: unblock
@@ -41,7 +40,6 @@ chrome.storage.sync.set({
 /*
 do not block options page and custom block page
 const optionsPageUrl = 'chrome-extension://gadcdahkboipobjjcdcgimieefddomca/options/options.html';
-const blockedPageUrl = 'chrome-extension://gadcdahkboipobjjcdcgimieefddomca/blocked/blocked.html';
 const newTabUrl = 'chrome-extension://gadcdahkboipobjjcdcgimieefddomca/newTab/newTab.html';
 const popupUrl = 'chrome-extension://gadcdahkboipobjjcdcgimieefddomca/popup/popup.html';
 */
