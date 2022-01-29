@@ -42,7 +42,7 @@ All required features are successfully implemented with some beautiful UI using 
 <img width="420" alt="image" src="https://user-images.githubusercontent.com/95043790/151659325-a3fd8646-a38d-4f1b-b4de-a883b80a2661.png">
 
 #### Extension's option page
-
+![options](https://user-images.githubusercontent.com/95043790/151659602-9e931d60-d8b3-49f7-bcad-9b4b52d2fe49.jpg)
 
 
 
