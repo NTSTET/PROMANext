@@ -7,11 +7,11 @@
 1. Saurabh Kumar(Team leader)
    - **Roll no.-** 190102065
    - **Deptt.-** Electronics and Communication Engineering (3rd year)
-   - **Web mail-** [mail](mailto:saurabh2002@iitg.ac.in)
+   - **Web mail-** [saurabh2002@iitg.ac.in](mailto:saurabh2002@iitg.ac.in)
 2. Prakash Parmar
    - **Roll no.-** 190123047
    - **Deptt.-** Mathematics and Computing (3rd year)
-   - **Web mail-** [mail](mailto:p.parmar@iitg.ac.in)
+   - **Web mail-** [p.parmar@iitg.ac.in](mailto:p.parmar@iitg.ac.in)
  
 
 
