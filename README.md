@@ -1,6 +1,7 @@
-# PROMANext
+# Productivity Management Chrome Extension (PROMAN) by CODING CLUB IITG
+## Indian Institute of Technology Guwahati Assam
 ## Working team meambers
-1. Saurabh Kumar
+1. Saurabh Kumar(Team leader)
    - **Roll no.-** 190102065
    - **Deptt.-** Electronics and Communication Engineering (3rd year)
    - **Web mail-** [mail](mailto:saurabh2002@iitg.ac.in)
@@ -47,7 +48,7 @@ All required features are successfully implemented with some beautiful UI using 
 ## Message
 This project took about 7 months to complete and finally now we are able to complete and submit it to **CODING CLUB IITG**.
 
-We were beginners while we started to work on the project. We learned from the tutorials, documentations and we have tried our best to complete it.
+We were beginners while we started to work on the project. We learned from the tutorials, documentations and we tried our best to complete it.
 We know that this project may have some bugs or may be the code that we had written be not so efficient but it was our best effort and we tried very hard to make it better and we are learning now and we hope that we will be able to make it more better in coming future.
 
 # Thanks to CODING CLUB IITG for giving this opportunity.
