@@ -3,7 +3,7 @@
 
 ## Indian Institute of Technology Guwahati Assam
 
-## Team meambers
+## Team members
 1. Saurabh Kumar(Team leader)
    - **Roll no.-** 190102065
    - **Deptt.-** Electronics and Communication Engineering (3rd year)
@@ -49,7 +49,7 @@ We were beginners while we started to work on the project. We learned from the t
 We know that this project may have some bugs or may be the code that we had written be not so efficient but it was our best effort and we tried very hard to make it better and we are learning now and we hope that we will be able to make it more better in coming future.
 
 # Thanks to CODING CLUB IITG for giving this opportunity.
-## Thanks to my team mate @Prakash-Parmar and all those who helped us to clear the doubts faced by us in making of this project.... 
+#### Thanks to my team mate @Prakash-Parmar and all those who helped us to clear the doubts faced by us in making of this project.... 
 
 
 
