@@ -38,16 +38,16 @@ body::-webkit-scrollbar {
   padding: 5px 10px;
   color: bisque;
   border: none;
-  border-radius: 5px;
+  border-radius: 3px;
   /* background: linear-gradient(to right,#1CB5E0,#000046); */
   background: #833ab4;  /* fallback for old browsers */
   background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); 
   cursor: pointer;
 }
 .btn:hover {
-  background: linear-gradient(to left,#00c8ff,#000000);
-  box-shadow: 0px 0px 10px #00c8ff;
-  transition-duration: 1000ms;
+  background: rgb(250, 250, 250);
+  color: #01004b;
+  transition:all 500ms;
 }
 .heading {
   color: cyan;
@@ -82,8 +82,8 @@ body::-webkit-scrollbar {
     right: 0;
     bottom: 0;
     background-color: #ccc;
-    -webkit-transition: .4s;
-    transition: .4s;
+    -webkit-transition:all .4s;
+    transition:all .4s;
   }
   
   .slider:before {
@@ -94,8 +94,8 @@ body::-webkit-scrollbar {
     left: 4px;
     bottom: 4px;
     background-color: rgb(250, 250, 250);
-    -webkit-transition: .4s;
-    transition: .4s;
+    -webkit-transition:all .4s;
+    transition:all .4s;
   }
   
   input:checked + .slider {
@@ -121,15 +121,16 @@ form > input {
     margin:5px auto 5px ;
     padding: 5px 10px;
     border: none;
-    border-radius: 10px;
+    border-radius: 3px;
     /* background: linear-gradient(to right, #00005a, #00acdb); */
     background: #870000;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #190A05, #870000);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #190A05, #870000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     color: azure;
 }
-form > input:hover {
-  background: linear-gradient(to right, #00005a, #00acdb);
+form > input:hover, form > input:focus {
+  /* background: linear-gradient(to right, #00005a, #00acdb); */
+  background: rgba(0, 1, 70, 0.637);
 }
 
 form > input[type=submit],form > input[type=reset],form > button {
@@ -183,26 +184,24 @@ b{
   padding: 5px 10px;
   margin-top: 10px;
   border: none;
-  border-radius: 5px;
+  border-radius: 3px;
   color: #001570;
   cursor: pointer;
 }
 .remove:hover {
-  box-shadow: 0 0 10px rgb(255, 255, 255);
-  color: aliceblue;
-  font-weight: 600;
+  background: #ccc;
+  color: #190A05;
 }
 .period {
   color: rgb(255, 238, 0);
 }
 .feature-btn {
   padding: 5px 10px;
-
   background: #833ab4;  /* fallback for old browsers */
   background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); 
   color: rgb(0, 16, 107);
   border: none;
-  border-radius: 5px;
+  border-radius: 3px;
   cursor: pointer;
 }
 .display-features {
