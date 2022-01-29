@@ -37,7 +37,7 @@ All required features are successfully implemented with some beautiful UI using 
 
 ## Snapshots
 #### Overrided newTab
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/95043790/151659234-9a06bf19-a596-467a-9b00-a17aab982445.png">
+<img width="300" alt="newtab-image" src="https://user-images.githubusercontent.com/95043790/151659234-9a06bf19-a596-467a-9b00-a17aab982445.png">
 
 #### Extension's popup
 <img style="float: left" width="419" alt="image" src="https://user-images.githubusercontent.com/95043790/151659313-d5452891-1344-4e34-8b71-18cf9501b77b.png">
