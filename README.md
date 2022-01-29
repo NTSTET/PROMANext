@@ -1,4 +1,4 @@
-# Productivity Management Chrome Extension (PROMAN) by CODING CLUB IITG
+# Productivity Management Chrome Extension (PROMAN) by [CODING CLUB IITG](https://github.com/Coding-Club-IITG)
 <img width="150" alt="iitg-logo" src="https://user-images.githubusercontent.com/95043790/151660738-beaba16c-b155-429a-847a-a0a4ad7c3cdf.png">
 
 ## Indian Institute of Technology Guwahati Assam
