@@ -10,9 +10,10 @@
    - **Deptt.-** Mathematics and Computing (3rd year)
    - **Web mail-** [mail](mailto:p.parmar@iitg.ac.in)
  
-**Project problem statement can be found [here](https://www.dropbox.com/scl/fi/fij88g0at3h65pp51lia8/Productivity-Management.docx?dl=0&rlkey=nqbgm2t1r7fm26fvftmt6xaon)**
+
 
 ## Project description
+**Project problem statement can be found [here](https://www.dropbox.com/scl/fi/fij88g0at3h65pp51lia8/Productivity-Management.docx?dl=0&rlkey=nqbgm2t1r7fm26fvftmt6xaon)**
 **Project name:** PROMAN extension
 
 Basically this is a chrome extension development project. The main purpose of the this chrome extension is to increase the productivity of the user.
@@ -39,7 +40,7 @@ All required features are successfully implemented with some beautiful UI using 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/95043790/151659234-9a06bf19-a596-467a-9b00-a17aab982445.png">
 
 #### Extension's popup
-<img width="419" alt="image" src="https://user-images.githubusercontent.com/95043790/151659313-d5452891-1344-4e34-8b71-18cf9501b77b.png">
+<img style="float: left" width="419" alt="image" src="https://user-images.githubusercontent.com/95043790/151659313-d5452891-1344-4e34-8b71-18cf9501b77b.png">
 <img width="420" alt="image" src="https://user-images.githubusercontent.com/95043790/151659325-a3fd8646-a38d-4f1b-b4de-a883b80a2661.png">
 
 #### Extension's option page
