@@ -37,7 +37,7 @@ All required features are successfully implemented with some beautiful UI using 
 
 ## Snapshots
 #### Overrided newTab, Extension's option page and Extension's popup
-<img width="250" alt="newtab-image" src="https://user-images.githubusercontent.com/95043790/151659234-9a06bf19-a596-467a-9b00-a17aab982445.png"> <img width="250" alt="optionsimage" src="https://user-images.githubusercontent.com/95043790/151659602-9e931d60-d8b3-49f7-bcad-9b4b52d2fe49.jpg"> <img style="float: left" width="250" alt="popupimage" src="https://user-images.githubusercontent.com/95043790/151659313-d5452891-1344-4e34-8b71-18cf9501b77b.png"> <img style="float: left" width="250" alt="popupimage" src="https://user-images.githubusercontent.com/95043790/151659325-a3fd8646-a38d-4f1b-b4de-a883b80a2661.png"> 
+<img width="250" alt="newtab-image" src="https://user-images.githubusercontent.com/95043790/151659234-9a06bf19-a596-467a-9b00-a17aab982445.png"> <img width="200" alt="optionsimage" src="https://user-images.githubusercontent.com/95043790/151659602-9e931d60-d8b3-49f7-bcad-9b4b52d2fe49.jpg"> <img style="float: left" width="200" alt="popupimage" src="https://user-images.githubusercontent.com/95043790/151659313-d5452891-1344-4e34-8b71-18cf9501b77b.png"> <img style="float: left" width="200" alt="popupimage" src="https://user-images.githubusercontent.com/95043790/151659325-a3fd8646-a38d-4f1b-b4de-a883b80a2661.png"> 
 
 ## Message
 This project took about 7 months to complete and finally now we are able to complete and submit it to **CODING CLUB IITG**.
