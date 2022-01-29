@@ -1,6 +1,6 @@
 # Productivity Management Chrome Extension (PROMAN) by CODING CLUB IITG
-## ![IITG_logo](https://user-images.githubusercontent.com/95043790/151660738-beaba16c-b155-429a-847a-a0a4ad7c3cdf.png)
- Indian Institute of Technology Guwahati Assam
+<img width="250" alt="iitg-logo" src="https://user-images.githubusercontent.com/95043790/151660738-beaba16c-b155-429a-847a-a0a4ad7c3cdf.png">
+## Indian Institute of Technology Guwahati Assam
 ## Working team meambers
 1. Saurabh Kumar(Team leader)
    - **Roll no.-** 190102065
