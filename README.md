@@ -25,8 +25,8 @@ Basically this is a chrome extension development project. The main purpose of th
 
 **Basic tech stacks required for this project are mainly `HTML`, `CSS`, `Javascript` and most important part of the project is `chrome APIs` which can be found in [chrome developer documenation](https://developer.chrome.com/docs/extensions/).**
 
-## Feedback
-All required features are successfully implemented with some beautiful UI using cascading styles and in addition to the required features, some extra work has also been done as described below....
+## Work
+All required features are successfully implemented with some beautiful UI using cascading styles and in addition to the required features, **some extra work** has also been done as described below....
 
 - The extension also *overrides the default chrome search new tab* having classy look and have following features..
    - Google Search
@@ -43,6 +43,16 @@ All required features are successfully implemented with some beautiful UI using 
 
 #### Extension's option page
 ![options](https://user-images.githubusercontent.com/95043790/151659602-9e931d60-d8b3-49f7-bcad-9b4b52d2fe49.jpg)
+
+## Message
+This project took about 7 months to complete and finally now we are able to complete and submit it to **CODING CLUB IITG**.
+
+We were beginners while we started to work on the project. We learned from the tutorials, documentations and we have tried our best to complete it.
+We know that this project may have some bugs or may be the code that we had written be not so efficient but it was our best effort and we tried very hard to make it better and we are learning now and we hope that we will be able to make it more better in coming future.
+
+# Thanks to CODING CLUB IITG for giving this opportunity.
+## Thanks to my team mate @Prakash-Parmar and all those who helped us to clear the doubts faced by us in making of this project.... 
+
 
 
 
