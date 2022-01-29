@@ -59,11 +59,12 @@ body::-webkit-scrollbar {
 }
 
 #menu table th:hover {
-    background: maroon;
+    background: rgb(255, 255, 255);
+    box-shadow: inset rgb(0, 0, 0) 0px 0px 50px;
 }
 
 #menu table th a:hover {
-    color: linen;
+    color: rgb(0, 28, 119);
 }
 
 
@@ -96,17 +97,16 @@ input[type=text],
 input[type=datetime-local]{
     color: #fff;
     border: none;
-    background: #C04848;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #480048, #C04848);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #480048, #C04848); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #C04848;
+    background: -webkit-linear-gradient(to right, #480048, #C04848);
+    background: linear-gradient(to right, #480048, #C04848); 
 }
 
 input[type=text]:focus,
 input[type=datetime-local]:focus{
-    background: #DD5E89;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #0e2417, #00115a);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right,  #163b26, #001261); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #362f2f; 
     color: rgb(255, 255, 255);
+    box-shadow: inset floralwhite 0 0 8px;
     font-weight: 600;
 }
 
@@ -135,15 +135,16 @@ input[type=datetime-local]:focus{
     border: none;
     padding-top: 0.625rem;
     height: 38px;
-    transition:background 1s,color 1s;
+    transition:background .5s,color .5s;
 }
 #addTodo:hover {
     color: rgb(7, 61, 0);
     background: #fff;
 }
-input:hover {
-    box-shadow: 0 0 10px #ccc;
-    transition-duration: 1000ms;
+input:hover,input:focus {
+    background: #362f2f;
+    transition:background 500ms, box-shadow 500ms;
+    box-shadow: inset floralwhite 0 0 8px;
 }
 
 .todo_container {
@@ -216,8 +217,9 @@ input:hover {
 }
 
 #btp:hover {
-    color: rgb(148, 73, 19);
-    background: antiquewhite;
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+    border: 1px solid #000;
 }
 
 @media only screen and (max-width: 1000px) {
