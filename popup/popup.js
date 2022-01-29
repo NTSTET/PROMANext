@@ -224,7 +224,7 @@ bdf.addEventListener('submit',(e)=>{
   var dur = (Math.floor(bdf.duration.value))*60;//seconds
   var now = new Date();
   if(dur >= 1){
-    breakTime.innerHTML = `<p><i class="fas fa-coffee feature-btn"></i> Break after <b><big>${dur/60} minutes</big></b> from ${now.toLocaleTimeString()}<br><b class="warning"><i class="fas fa-exclamation-triangle"></i> </b><small>please do not disable the extension until break time is not reached. Please set again break duration ,if in case you had disabled extension before completion of above displayed break time.</small></p>`;
+    breakTime.innerHTML = `<p><i class="fas fa-coffee feature-btn"></i> Break after <b><big>${dur/60} minutes</big></b> from ${now.toLocaleTimeString()}<br><br><b class="warning"><i class="fas fa-exclamation-triangle"></i> </b><small>please do not disable the extension until break time is not reached. Please set again break duration ,if in case you had disabled extension before completion of above displayed break time.</small></p>`;
     chrome.storage.sync.set({'dur': {'time': dur/60,'now': now.toLocaleTimeString()}});
     chrome.runtime.sendMessage({'duration': dur, 'purpose': 'break'});
   }else{
